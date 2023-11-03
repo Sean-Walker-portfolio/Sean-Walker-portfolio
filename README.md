@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sean-Walker-portfolio
+- 👀 I’m interested in software development, sports, and outdoor adventures!
+- 🌱 I’m currently learning javascript and app development.
+- 📫 Feel free to connect with me on linkin: www.linkedin.com/in/sean-walker-cs
